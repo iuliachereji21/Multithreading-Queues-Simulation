@@ -1,0 +1,1 @@
+Queues simulator using multiple threads. Implemented thread sinchronization, safety and timing.
